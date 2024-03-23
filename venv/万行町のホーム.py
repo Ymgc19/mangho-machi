@@ -28,9 +28,11 @@ st.markdown("### ここで回覧板やイベント情報を共有します")
 col1, col2 = st.columns(2)
 with col1:
     st.markdown("## 最近の情報")
+    st.text("2024年3月23日 ホームページを開設しました")
 
 with col2:
     st.markdown("## 回覧板")
+    st.text("今後追加します")
 
 
 st.text("連絡先: xxx@yyy.zzz")
