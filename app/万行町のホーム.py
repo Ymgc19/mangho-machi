@@ -39,7 +39,7 @@ def download_pdf(a):
         st.markdown(href, unsafe_allow_html=True)
 
 # トップ画像を出す
-image = Image.open("photos/五反田.jpg")
+image = Image.open("mangho-machi/photos/五反田.png")
 st.image(image)
 
 
