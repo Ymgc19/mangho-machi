@@ -19,8 +19,8 @@ custom_colors =["#da53cb", "#ff70ae", "#ffb2bc", "#fffaf7", "#ffffff",
 
 
 # トップ画像を出す
-image = Image.open("photos/五反田.png")
-st.image(image)
+#image = Image.open("photos/五反田.png")
+st.image(Image.open("photos/五反田.png"))
 
 st.title("七尾市万行町のホームページ")
 st.markdown("### ここで回覧板やイベント情報を共有します")
