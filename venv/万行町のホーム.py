@@ -19,8 +19,8 @@ custom_colors =["#da53cb", "#ff70ae", "#ffb2bc", "#fffaf7", "#ffffff",
 
 
 # トップ画像を出す
-image = Image.open("mangho-machi/photos/五反田.png")
-st.image(image)
+#image = Image.open("mangho-machi/photos/五反田.png")
+#st.image(image)
 
 
 st.markdown("### ここで回覧板などを共有します")
