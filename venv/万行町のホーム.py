@@ -25,4 +25,12 @@ custom_colors =["#da53cb", "#ff70ae", "#ffb2bc", "#fffaf7", "#ffffff",
 st.title("七尾市万行町のホームページ")
 st.markdown("### ここで回覧板やイベント情報を共有します")
 
+col1, col2 = st.columns(2)
+with col1:
+    st.markdown("## 最近の情報")
+
+with col2:
+    st.markdown("## 回覧板")
+
+
 st.text("連絡先: xxx@yyy.zzz")
