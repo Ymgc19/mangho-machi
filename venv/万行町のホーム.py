@@ -34,5 +34,13 @@ with col2:
     st.text("今後追加します")
 
 
+# 改行のため
+st.text("")
+st.text("")
+st.text("")
+st.text("")
+st.text("")
+
+
 st.image(Image.open("photos/五反田.png"))
 st.text("連絡先: xxx@yyy.zzz")
