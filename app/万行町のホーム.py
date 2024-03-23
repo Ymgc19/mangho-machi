@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 from PIL import Image
 import matplotlib.pyplot as plt
+from PIL import Image
 
 # フルスクリーン
 st.set_option('deprecation.showPyplotGlobalUse', False)
